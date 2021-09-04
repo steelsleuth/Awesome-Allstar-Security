@@ -125,3 +125,114 @@ A curated list of security topics ranging from DFIR to Reverse Engineering to pe
 - [TutorialsPoint](https://www.tutorialspoint.com/python_forensics/) - Python forensics tips.
 
 
+### Hacking
+
+- [Articles from Corelan.](https://www.corelan.be/index.php/articles/) - Articles from Corelan.
+- [Azeria Labs.](https://azeria-labs.com/about/) - Azeria Labs.
+- [Bug bounty platform.](https://bugcrowd.com/) - Bug bounty platform.
+- [Car hacker's handbook.](https://opengarages.org/handbook/) - Car hacker's handbook.
+- [Courses from RPI](https://security.cs.rpi.edu/courses/) - Courses from RPI
+- [Forum to learn a variety of security topics geared towards hacking.](https://0x00sec.org/) - Forum to learn a variety of security topics geared towards hacking.
+- [Free ebook on hacking the XBOX.](https://nostarch.com/xboxfree) - Free ebook on hacking the XBOX.
+- [Home site for NMAP.](https://sectools.org/) - Home site for NMAP.
+- [IoT exploitation toolkit.](https://github.com/adi0x90/attifyos) - IoT exploitation toolkit.
+- [Learning exploit development.](learn-exploit-development) - Learning exploit development.
+- [Malware development.](https://0xpat.github.io/Malware_development_part_1/) - Malware development.
+- [Misc Hacking tutorials.](https://xeushack.com/) - Misc Hacking tutorials.
+- [Modern Binary Exploitation course.](https://github.com/RPISEC/MBE) - Modern Binary Exploitation course.
+- [OSCP techniques.](https://github.com/tjnull/OSCP-Stuff) - OSCP techniques.
+- [PrivEsc resources.](https://github.com/Gr1mmie/Windows-Privilege-Escalation-Resources) - PrivEsc resources.
+- [Resources for bug bounties.](https://bugbountyhunter.com/) - Resources for bug bounties.
+- [Reverse shell generator.](https://www.revshells.com/) - Reverse shell generator.
+- [VMs for hacking.](https://hackmyvm.eu/) - VMs for hacking.
+- [Offensive security course from FSU.](https://www.cs.fsu.edu/~liux/courses/offensivenetsec/index.html) - Offensive security course from FSU.
+- [Stack Buffer overflows.](https://github.com/justinsteven/dostackbufferoverflowgood) - Stack Buffer overflows.
+- [Kernel exploits.](https://github.com/SecWiki/windows-kernel-exploits) - Kernel exploits.
+- [Hacker roadmap.](https://github.com/sundowndev/hacker-roadmap) - Hacker roadmap.
+- [List of exploits.](https://www.exploit-db.com/) - List of exploits.
+- [Phone phreak magazine.](https://www.phrack.com/) - Phone phreak magazine.
+- [Site for security videos.](https://www.securitytube.net/) - Site for security videos.
+- ["Build, host, and share freely vulnerable web applications "](https://hack.me/) - "Build, host, and share freely vulnerable web applications "
+- [Bug bounty platform.](https://hackerone.com/) - Bug bounty platform.
+- [Bug bounty links that are shared.](https://linksshare.io/) - Bug bounty links that are shared.
+- [Firing range to test your automated scanners.](https://public-firing-range.appspot.com/) - Firing range to test your automated scanners.
+- [Various resources from Root Me.](https://repository.root-me.org/) - Various resources from Root Me.
+- [Vulnerability scanner.](https://subgraph.com/vega/) - Vulnerability scanner.
+- [Bug bounty learning platform.](https://www.bugcrowd.com/university) - Bug bounty learning platform.
+- [Multipurpose relay](https://www.dest-unreach.org/socat/) - Multipurpose relay
+- [Hacking embedded devices.](https://www.devttys0.com/) - Hacking embedded devices.
+- [Wiki for embedded device hacking.](https://www.exploitee.rs/) - Wiki for embedded device hacking.
+- [Vulns in Docker Images.](https://www.federacy.com/blog/docker-image-vulnerability-research/) - Vulns in Docker Images.
+- [Resources for new hackers.](https://www.hackerone.com/blog/resources-for-new-hackers) - Resources for new hackers.
+- [Resources for bug bounty practice and learning.](https://www.stokfredrik.com/bugbountytraining) - Resources for bug bounty practice and learning.
+- [Good advice for buffer overflows.](https://www.vortex.id.au/2017/05/pwkoscp-stack-buffer-overflow-practice/) - Good advice for buffer overflows.
+- [Hacking hints.](https://www.win.tue.nl/~aeb/linux/hh/hh.html) - Hacking hints.
+
+### Hardware
+
+- [Community of hardware projects.](https://hackaday.io/) - Community of hardware projects.
+- [Radio Blog](https://www.andrewmohawk.com/category/radio-security/) - Radio Blog
+
+### Infosec
+
+- [AWS security practice.](https://flaws2.cloud/) - AWS security practice.
+- [Beginner lessons on security for high schoolers.](https://www.hackerhighschool.org/) - Beginner lessons on security for high schoolers.
+- [CompTIA SEC+ training.](CompTIA SEC+ 601 Training) - CompTIA SEC+ training.
+- [Defense against the dark arts 2021](https://www.cs.virginia.edu/~cr4bd/4630/S2021/schedule.html) - Defense against the dark arts 2021
+- [Free courses on topics including pentesting.](https://checkout.ine.com/starter-pass) - Free courses on topics including pentesting.
+- [Free security books from PacktPub.](https://github.com/Hack-with-Github/Free-Security-eBooks-from-PacktPub?files=1) - Free security books from PacktPub.
+- [IoT security.](https://github.com/V33RU/IoTSecurity101/blob/master/README.md) - IoT security.
+- [Learning labs for security.](https://seedsecuritylabs.org/) - Learning labs for security.
+- [Malware analysis sandbox.](https://any.run/) - Malware analysis sandbox.
+- [Malware bazaar.](https://bazaar.abuse.ch/) - Malware bazaar.
+- [Malware Traffic analysis](https://www.malware-traffic-analysis.net/training-exercises.html) - Malware Traffic analysis
+- [Mandiant and Fireye blogs.](https://twitter.com/stvemillertime/status/1316409822254899200) - Mandiant and Fireye blogs.
+- [MITRE ATT&CK.](https://attack.mitre.org/) - MITRE ATT&CK.
+- [Mobile systems security.](https://mobisec.reyammer.io/) - Mobile systems security.
+- [Network Forensics notes.](https://for572.com/) - Network Forensics notes.
+- [NSA codebreaker challenge.](https://codebreaker.ltsnet.net/home) - NSA codebreaker challenge.
+- [Open source security platform.](https://wazuh.com/) - Open source security platform.
+- [Phishing sites.](https://openphish.com/) - Phishing sites.
+- [Public infosec courses.](https://fedvte.usalearning.gov/public_fedvte.php) - Public infosec courses.
+- [Python course for infosec professionals.](https://pythonforcybersecurity.com/courses/python3-for-infosec-professionals/) - Python course for infosec professionals.
+- [Reports on ransomware.](https://github.com/d4rk-d4nph3/Ransomware-Reports) - Reports on ransomware.
+- [SANS Internet Storm Center.](https://isc.sans.edu/) - SANS Internet Storm Center.
+- [Tips from the BugCrowd community.](https://github.com/bugcrowd/tipjar) - Tips from the BugCrowd community.
+- [Tons of books.](https://please.dont-hack.me/books/hacking/) - Tons of books.
+- [Training for blue team.](https://letsdefend.io/) - Training for blue team.
+- [Threat hunting platform.](https://thehelk.com/intro.html) - Threat hunting platform.
+- [Information published by NSA Cyber.](https://github.com/nsacyber) - Information published by NSA Cyber.
+- [Malware analysis sandbox.](https://www.hybrid-analysis.com/) - Malware analysis sandbox.
+- [Malware analysis sandbox.](https://www.joesandbox.com/) - Malware analysis sandbox.
+- [Information on phishing sites.](https://www.phishtank.com/) - Information on phishing sites.
+- [Organization to find missing persons.](https://www.tracelabs.org/) - Organization to find missing persons.
+- [Resources for veterans.](https://www.veteransec.com/training) - Resources for veterans.
+- [Lets you check hashes.](https://www.virustotal.com/) - Lets you check hashes.
+- [SOC tool to speed up workflow.](https://github.com/TheresAFewConors/Sooty) - SOC tool to speed up workflow.
+- [Practical Training for Blue Team Members](https://letsdefend.io/) - Practical Training for Blue Team Members
+- [Learning Linux.](https://linuxjourney.com/) - Learning Linux.
+- [Phishing defense tool.](https://phishtool.com/) - Phishing defense tool.
+- [Launchpad for threat detection tools.](https://polyswarm.io/) - Launchpad for threat detection tools.
+- [Answer site for infosec.](https://security.stackexchange.com/) - Answer site for infosec.
+- [Threat hunting playbook.](https://threathunterplaybook.com/introduction.html) - Threat hunting playbook.
+- [URL Sandbox for internet.](https://urlscan.io/) - URL Sandbox for internet.
+- [Pattern matching swiss knife for malware](https://virustotal.github.io/yara/) - Pattern matching swiss knife for malware
+- [Resources for the Applied Incident Response book.](https://www.appliedincidentresponse.com/resources/) - Resources for the Applied Incident Response book.
+- [Writing security tools with Python.](https://www.binary-zone.com/course/HTID/Python4Infosec.pdf) - Writing security tools with Python.
+- ["Amazing resource for webinars on security, pentesting, and more."](https://www.blackhillsinfosec.com/) - "Amazing resource for webinars on security, pentesting, and more."
+- [Hands-on Labs for Security Education](https://www.cis.syr.edu/~wedu/seed/) - Hands-on Labs for Security Education
+- [Learning labs for Cisco networking.](https://www.cisco.com/c/m/en_sg/partners/cisco-networking-academy/index.html) - Learning labs for Cisco networking.
+- [Defense Against the Dark Arts course](https://www.cs.virginia.edu/~cr4bd/4630/S2021/) - Defense Against the Dark Arts course
+- [Career Readiness](https://www.cyberdegrees.org/) - Career Readiness
+- [Training videos](https://www.cybrary.it/) - Training videos
+- [ENISA Training](https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists) - "Technical, Operational, Setting up a CSIRT and Legal and Cooperation."
+- [Level up your Linux skills](https://www.linuxtrainingacademy.com/) - Level up your Linux skills
+- [Free and Low Cost Online Cybersecurity Learning Content](https://www.nist.gov/itl/applied-cybersecurity/nice/resources/online-learning-content) - Free and Low Cost Online Cybersecurity Learning Content
+- [Palo Alto Networks Free Digital Learning](https://www.paloaltonetworks.com/services/education/digital-learning) - Palo Alto Networks Free Digital Learning
+- [Training on Qualys topics from Vuln Management to Cloud and Container security.](https://www.qualys.com/training/) - Training on Qualys topics from Vuln Management to Cloud and Container security.
+- ["Cyber Security Training, Certifications, Degrees and Resources "](https://www.sans.org/) - "Cyber Security Training, Certifications, Degrees and Resources "
+- [Learn how to understand the science behind human communications.](https://www.social-engineer.org/) - Learn how to understand the science behind human communications.
+- [Bash guide for beginners.](https://www.tldp.org/LDP/Bash-Beginners-Guide/html/Bash-Beginners-Guide.html) - Bash guide for beginners.
+- [Selected papers on research.](https://www.uab.edu/cas/thecenter/research/selected-papers) - Selected papers on research.
+- [Training material for Wireshark](https://www.wallofsheep.com/pages/training-how-tos) - Training material for Wireshark
+
