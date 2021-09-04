@@ -92,4 +92,36 @@ A curated list of security topics ranging from DFIR to Reverse Engineering to pe
 - [C books.](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list) - List of C books.
 - [Code Triage](https://www.codetriage.com/) - Find new projects to work on.
 
+### CTF
+
+- [TrailOfBits](https://trailofbits.github.io/ctf/) - Field guide for CTFS
+- [Cyberx](https://cyberx.tech/hacking-lab/#cloudAndCTF) - Guide for setting up lab.
+- [Linoxide](https://linoxide.com/guide/linux-cheat-sheet.png) - Linux Cheat sheet.
+- [MemLabs](https://github.com/stuxnet999/MemLabs/blob/master/README.md) - Memory challenges.
+- [InfosecInstitute](https://resources.infosecinstitute.com/topic/tools-of-trade-and-resources-to-prepare-in-a-hacker-ctf-competition-or-challenge/) - Resources for a CTF competition.
+- [AUCTF](https://github.com/auehc/AUCTF-2020) - Self hosted CTF.
+- [CTFtime](https://ctftime.org/) - Shows upcoming CTF events.
+- [Smash the stack](https://smashthestack.org/) - Smash the stack CTF
+- [JAWS](https://github.com/411Hall/JAWS) - Windows enumeration script designed for CTFs.
+- [SOCVEL](https://socvel.com/) - Blue team training CTF.
+
+### DFIR
+
+- [Microsoft Incident Response](https://docs.microsoft.com/en-us/security/compass/incident-response-playbooks?WT.mc_id=AZ-MVP-5003945) - Incident Response Playbooks
+- [FB-Search](https://sowdust.github.io/fb-search/) - Information for performing FaceBook searches.
+- [FindTheBad](https://findthebad.com/) - Labs to learn skills.
+- [Blackhat Willis Linux Forensics](https://www.blackhat.com/presentations/bh-usa-03/bh-us-03-willis-c/bh-us-03-willis.pdf) - Linux Forensics
+- [Ultimate DFIR cheatsheet.](https://www.jaiminton.com/cheatsheet/DFIR/) - Ultimate DFIR cheatsheet.
+- [AboutDFIR](https://aboutdfir.com/) - Info source for DFIR.
+- [ThisWeekIn4n6](https://thisweekin4n6.com/) - DFIR news.
+- [IoT DFIR](https://github.com/RJC497/IoT-Digital-Forensics-Course) - IoT DFIR.
+- [DFIR training](https://www.dfir.training/) - DFIR training
+- [Gary Kessler's File Sigs](https://www.garykessler.net/library/file_sigs.html) - File signature table.
+- [LinuxLeo](https://www.linuxleo.com/) - Forensic Examiner's Introduction to Linux
+- [NIJ Software Tools](https://www.nij.gov/topics/technology/pages/software-tools.aspx) - Free or low cost software tools, apps and databases to assist with investigations or research.
+- [ThreatCrowd](https://www.threatcrowd.org/) - Search engine for threats.
+- [ThreatHunting](https://www.threathunting.net/) - Hunting for adversaries in your IT environment.
+- [ThreatMiner](https://www.threatminer.org/) - Data mining for threat intelligence.
+- [TutorialsPoint](https://www.tutorialspoint.com/python_forensics/) - Python forensics tips.
+
 
