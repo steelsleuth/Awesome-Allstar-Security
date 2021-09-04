@@ -236,3 +236,186 @@ A curated list of security topics ranging from DFIR to Reverse Engineering to pe
 - [Selected papers on research.](https://www.uab.edu/cas/thecenter/research/selected-papers) - Selected papers on research.
 - [Training material for Wireshark](https://www.wallofsheep.com/pages/training-how-tos) - Training material for Wireshark
 
+### List
+
+- [Awesome free software.](https://github.com/johnjago/awesome-free-software#readme) - Awesome free software.
+- [Awesome list for exploit development.](https://github.com/FabioBaroni/awesome-exploit-development) - Awesome list for exploit development.
+- [Awesome list for hacking.](https://github.com/Hack-with-Github/Awesome-Hacking) - Awesome list for hacking.
+- [Awesome list for reversing.](https://github.com/tylerha97/awesome-reversing) - Awesome list for reversing.
+- [Awesome lists.](https://github.com/sindresorhus/awesome) - Awesome lists.
+- [Awesome web hacking.](https://github.com/infoslack/awesome-web-hacking/blob/master/README.md) - Awesome web hacking.
+- [List of free training resources.](https://freetraining.dfirdiva.com/) - List of free training resources.
+- [List of ICS security tools.](https://github.com/ITI/ICS-Security-Tools) - List of ICS security tools.
+- [List of pentesting bookmarks.](https://github.com/jhaddix/pentest-bookmarks) - List of pentesting bookmarks.
+- [List of pentesting tools and topics.](https://github.com/wtsxDev/Penetration-Testing) - List of pentesting tools and topics.
+- [List of shell resources.](https://github.com/alebcay/awesome-shell) - List of shell resources.
+- [List of tools for python pentesting.](https://github.com/dloss/python-pentest-tools) - List of tools for python pentesting.
+- [Threat intelligence resources.](https://github.com/hslatman/awesome-threat-intelligence) - Threat intelligence resources.
+- [Top repos used by pentestors.](https://twitter.com/0xTib3rius/status/1387260184100315137) - Top repos used by pentestors.
+- [List of forensics.](https://github.com/Cugu/awesome-forensics) - List of forensics.
+- [Getting started in Infosec.](https://github.com/gradiuscypher/infosec_getting_started) - Getting started in Infosec.
+- [List of places to practice hacking skills.](https://github.com/joe-shenouda/awesome-cyber-skills) - List of places to practice hacking skills.
+- [Infosec resources.](https://github.com/onlurking/awesome-infosec) - Infosec resources.
+- [More infosec resources and references.](https://github.com/rmusser01/Infosec_Reference) - More infosec resources and references.
+- [ML for cybersecurity.](https://github.com/jivoi/awesome-ml-for-cybersecurity) - ML for cybersecurity.
+- [Incident response tools.](https://github.com/meirwah/awesome-incident-response) - Incident response tools.
+- [Blue Team tools.](https://github.com/meitar/awesome-cybersecurity-blueteam) - Blue Team tools.
+- [Resources for bug bounties.](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters) - Resources for bug bounties.
+- [Collection of offensive-focused blogs and tools.](https://github.com/OlivierLaflamme/Cheatsheet-God) - Collection of offensive-focused blogs and tools.
+- [List of application security tools.](https://github.com/paragonie/awesome-appsec) - List of application security tools.
+- [Honeypot tools.](https://github.com/paralax/awesome-honeypots) - Honeypot tools.
+- [Serverless security list.](https://github.com/puresec/awesome-serverless-security/) - Serverless security list.
+- [List of malware analysis resources.](https://github.com/rshipp/awesome-malware-analysis) - List of malware analysis resources.
+- [Awesome security.](https://github.com/sbilly/awesome-security) - Awesome security.
+- [List of infosec resources.](https://github.com/The-Art-of-Hacking/h4cker) - List of infosec resources.
+- ["A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more."](https://github.com/trimstray/the-book-of-secret-knowledge) - "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more."
+- ["A curated list of awesome Python frameworks, libraries, software and resources."](https://github.com/vinta/awesome-python) - "A curated list of awesome Python frameworks, libraries, software and resources."
+- [A collection of awesome penetration testing resources](https://github.com/wtsxDev/Penetration-Testing) - A collection of awesome penetration testing resources
+- [List of security creators](https://securitycreators.video/) - List of security creators
+- [Technical guides on various hacking topics.](https://www.thehacker.recipes/) - Technical guides on various hacking topics.
+
+### Pentesting
+
+- [A standard for pentesting.](â€‹https://www.pentest-standard.org/index.php/Main_Pageâ€‹) - A standard for pentesting.
+- [AWS Pentesting](https://infosecwriteups.com/deep-dive-into-aws-penetration-testing-a99192a26898) - AWS Pentesting
+- [TJNulls OSCP Prep Guide](https://www.netsecfocus.com/oscp/2019/03/29/The_Journey_to_Try_Harder-_TJNulls_Preparation_Guide_for_PWK_OSCP.html) - Blog on OSCP.
+- [Blog on OSCP.](https://www.securitysift.com/offsec-pwb-oscp/) - Blog on OSCP.
+- [Blog on Pentesting topics](https://www.hackers-arise.com/) - Blog on Pentesting topics
+- [Burp intruder payloads.](https://github.com/1N3/IntruderPayloads) - Burp intruder payloads.
+- [Cheat sheets for pentesting.](https://github.com/acole76/pentestmonkey-cheatsheets) - Cheat sheets for pentesting.
+- [Course on metasploit.](â€‹https://www.offensive-security.com/metasploit-unleashed/â€‹) - Course on metasploit.
+- [Docker for pentesters.](https://blog.ropnop.com/docker-for-pentesters/) - Docker for pentesters.
+- [Find emails.](https://hunter.io/) - Find emails.
+- ["General hacking tricks, pentesting tricks, and CTF tricks."](https://book.hacktricks.xyz/) - "General hacking tricks, pentesting tricks, and CTF tricks."
+- [Good writeup on skills to learn for pentesting.](https://flawed.net.nz/2019/06/21/Getting-Into-Pentesting-In-2019/) - Good writeup on skills to learn for pentesting.
+- [Google Dorks](https://www.exploit-db.com/google-hacking-database/9/) - Google Dorks
+- [NII OSCP Guide](https://niiconsulting.com/checkmate/2017/06/a-detail-guide-on-oscp-preparation-from-newbie-to-oscp/) - Guide on prepping for the OSCP.
+- [Information on bug bounties.](https://github.com/daffainfo/AllAboutBugBounty) - Information on bug bounties.
+- [Linux enumeration.](https://github.com/diego-treitos/linux-smart-enumeration/) - Linux enumeration.
+- [Linux privesc.](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/) - Linux privesc.
+- [List of pentester articles.](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) - List of pentester articles.
+- [Modifying Kali Linux.](https://github.com/Dewalt-arch/pimpmykali) - Modifying Kali Linux.
+- [OSCP Guide](https://johnjhacking.com/blog/the-oscp-preperation-guide-2020/) - OSCP Guide
+- [OSCP Prep](https://github.com/RustyShackleford221/OSCP-Prep) - OSCP Prep
+- ["Pentest notes, OSCP guide, and cheat sheets."](https://github.com/wwong99/pentest-notes) - "Pentest notes, OSCP guide, and cheat sheets."
+- [OSCP tools and resources.](https://parzelsec.de/posts/oscp-tools-and-resources) - OSCP tools and resources.
+- [OSCP-like boxes to practice on.](https://docs.google.com/spreadsheets/d/1wW2EOeUo5EkgePheuBfqeUh6Zuh4sPnYVwb7KusoSqc/edit#gid=0) - OSCP-like boxes to practice on.
+- [OWASP Testing Guide](https://owasp.org/www-pdf-archive/OTGv4.pdf) - OWASP Testing Guide
+- [OWASP Top ten.](https://owasp.org/www-project-top-ten/) - OWASP Top ten.
+- [Pentesting IoT devices.](https://blog.mindedsecurity.com/2018/09/pentesting-iot-devices-part-1-static.html) - Pentesting IoT devices.
+- [Pentesting with Shodan.](https://community.turgensec.com/shodan-pentesting-guide/) - Pentesting with Shodan.
+- [Powershell Netcat.](https://github.com/besimorhino/powercat) - Powershell Netcat.
+- [Repo for probably wordlists.](https://github.com/berzerk0/Probable-Wordlists) - Repo for probably wordlists.
+- [Repo for security testing.](https://github.com/heilla/SecurityTesting/) - Repo for security testing.
+- [Reverse Shell Generator](https://revshells.com) - Reverse Shell Generator
+- [Shodan primer.](https://danielmiessler.com/study/shodan/) - Shodan primer.
+- [Site to learn pentesting.](https://pentesterlab.com/) - Site to learn pentesting.
+- [Tools for bug bounty hunting.](https://github.com/felipecaon/BugBountyStuff) - Tools for bug bounty hunting.
+- [Total OSCP guide.](https://sushant747.gitbooks.io/total-oscp-guide/content/) - Total OSCP guide.
+- [TryHackMe Learning Process](https://blog.tryhackme.com/going-from-zero-to-hero/) - TryHackMe Learning Process
+- [Wordlists for pentesting.](https://github.com/danielmiessler/SecLists) - Wordlists for pentesting.
+- [Automated tooling against a target.](https://github.com/j3ssie/Osmedeus) - Automated tooling against a target.
+- [PDFs on Offensive Security.](https://github.com/jivoi/offsec_pdfs) - PDFs on Offensive Security.
+- [Public pentesting reports.](https://github.com/juliocesarfort/public-pentesting-reports) - Public pentesting reports.
+- [Email breach hunting tool.](https://github.com/khast3x/h8mail) - Email breach hunting tool.
+- [Linux exploit suggester.](https://github.com/mzet-/linux-exploit-suggester) - Linux exploit suggester.
+- [Checklists for pentesting and red teaming.](https://github.com/netbiosX/Checklists) - Checklists for pentesting and red teaming.
+- ["Powershell tool for persistance, exfiltration, etc."](https://github.com/PowerShellMafia/PowerSploit) - "Powershell tool for persistance, exfiltration, etc."
+- [Linux enumeration.](https://github.com/rebootuser/LinEnum) - Linux enumeration.
+- ["PowerShell for offensive security, penetration testing and red teaming. "](https://github.com/samratashok/nishang) - "PowerShell for offensive security, penetration testing and red teaming. "
+- [Report generation tool.](https://github.com/SerpicoProject/Serpico) - Report generation tool.
+- ["Pentesting toolkit,"](https://github.com/SofianeHamlaoui/Lockdoor-Framework) - "Pentesting toolkit,"
+- [Payload all the things!](https://github.com/swisskyrepo/PayloadsAllTheThings) - Payload all the things!
+- [OWASP checklist for performing web app testing.](https://github.com/tanprathan/OWASP-Testing-Checklist) - OWASP checklist for performing web app testing.
+- [Resources for PEH course.](https://github.com/TCM-Course-Resources/Practical-Ethical-Hacking-Resources) - Resources for PEH course.
+- [Network recon tool.](https://github.com/Tib3rius/AutoRecon) - Network recon tool.
+- [GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems.](https://gtfobins.github.io/) - GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems.
+- [Pentesting Cheatsheet](https://hausec.com/pentesting-cheatsheet/) - Pentesting Cheatsheet
+- [Guide on how to become a pentester.](https://jhalon.github.io/becoming-a-pentester/) - Guide on how to become a pentester.
+- [Lolbins.](https://lolbas-project.github.io/#) - Lolbins.
+- [OSCP Guide.](https://medium.com/@1chidan/zero-to-oscp-concise-edition-b5ecd4a781c3) - OSCP Guide.
+- [Site with cheetsheets for pentesting.](https://pentestmonkey.net) - Site with cheetsheets for pentesting.
+- [List of pentest tools.](https://prune2000.github.io/tools/pentest/) - List of pentest tools.
+- [Guide on the OSCP.](https://scund00r.com/all/oscp/2018/02/25/passing-oscp.html) - Guide on the OSCP.
+- [Privesc article.](https://www.absolomb.com/2018-01-26-Windows-Privilege-Escalation-Guide/) - Privesc article.
+- [Article on pentesting and bug bounty hunting.](https://www.billdietrich.me/PenetrationTestingAndBugBountyHunting.html) - Article on pentesting and bug bounty hunting.
+- [Setting up a pentest lab with Docker.](https://www.hackingarticles.in/web-application-pentest-lab-setup-using-docker/) - Setting up a pentest lab with Docker.
+- [Guide for windows pentesting.](https://www.roguesecurity.in/2018/12/02/a-guide-for-windows-penetration-testing/) - Guide for windows pentesting.
+
+
+### Practice
+
+- [Awesome infosec courses.](https://samsclass.info/) - Awesome infosec courses.
+- [Building a Home Lab](https://hausec.com/2021/03/04/creating-a-red-blue-team-home-lab/) - Building a Home Lab
+- [11/",Cache of exploit exercises.]("https://www.vulnhub.com/series/exploit-exercises) - 11/",Cache of exploit exercises.
+- [Challenging machines to break into.](https://app.hackthebox.eu/dashboard) - Challenging machines to break into.
+- [Hacking and pentesting courses.](https://academy.tcm-sec.com/) - Hacking and pentesting courses.
+- [IR walkthrough for high schoolers.](https://www.hacktale.com/) - IR walkthrough for high schoolers.
+- [Malware analysis courses.](https://courses.zero2auto.com/dashboard) - Malware analysis courses.
+- [Practice exams.](https://www.examcompass.com/) - Practice exams.
+- [Site to learn various infosec skills.](https://tryhackme.com/dashboard) - Site to learn various infosec skills.
+- [Training site.](https://www.root-me.org/?lang=en) - Training site.
+- [Udemy-like site.](https://stackskills.com/courses/enrolled) - Udemy-like site.
+- [Various CS courses.](https://testautomationu.applitools.com/) - Various CS courses.
+- [Vulnerable machines to hack.](https://www.vulnhub.com/) - Vulnerable machines to hack.
+- [Vulnerable machines to hack.](https://exploit.education/) - Vulnerable machines to hack.
+- [PrivEsc workshop.](https://github.com/sagishahar/lpeworkshop) - PrivEsc workshop.
+- [Bug bounting learning platform.](https://www.hacker101.com/) - Bug bounting learning platform.
+- [Programming practice.](https://www.hackerearth.com/practice/) - Programming practice.
+- [Pentesting practice labs.](https://www.pentesterlab.com/) - Pentesting practice labs.
+- [Pentesting practice.](https://www.pentestpractice.com/challenges) - Pentesting practice.
+- [Courses on malware and red teaming.](https://institute.sektor7.net) - Courses on malware and red teaming.
+- ["Free, online web security training from the creators of Burp Suite"](https://portswigger.net/web-security) - "Free, online web security training from the creators of Burp Suite"
+- [Hacking wargame.](https://pwnable.tw/) - Hacking wargame.
+- [Awesome online classes for hacking and programming.](https://samsclass.info/) - Awesome online classes for hacking and programming.
+- [Courses on bug bounties and web app vulns.](https://thexssrat.podia.com/dashboard) - Courses on bug bounties and web app vulns.
+- [Sites to practice pentesting on.](https://www.amanhardikar.com/mindmaps/Practice.html) - Sites to practice pentesting on.
+- [DFIR for veterans.](https://www.digitalcyberacademy.com/) - DFIR for veterans.
+- [Training ground for web hacking.](https://www.hackthissite.org/) - Training ground for web hacking.
+- [Interactive cybersecurity training.](https://www.rangeforce.com/) - Interactive cybersecurity training.
+
+### Red Teaming
+
+- [Adversary tactics using Powershell.](https://github.com/specterops/at-ps) - Adversary tactics using Powershell.
+- [Phishing framework](https://github.com/Raikia/FiercePhish) - Phishing framework
+- [Adversary emulation.](https://github.com/mitre/caldera) - Adversary emulation.
+- [Attacking AD.](https://zer1t0.gitlab.io/posts/attacking_ad/) - Attacking AD.
+- [OSINT tool.](https://sherlock-project.github.io/) - OSINT tool.
+- [Matrix of C2 frameworks.](https://www.thec2matrix.com/matrix) - Matrix of C2 frameworks.
+
+
+### Reverse Engineering
+
+- [Archived ASM forums.](https://www.asmcommunity.net/forums/) - Archived ASM forums.
+- [Binary auditing training course uploaded to Github.](https://github.com/Info-security/binary-auditing-training) - Binary auditing training course uploaded to Github.
+- [Book on assembly and reverse engineering.](https://beginners.re/) - Book on assembly and reverse engineering.
+- [Guide to x86 assembly.](https://www.cs.virginia.edu/~evans/cs216/guides/x86.html) - Guide to x86 assembly.
+- [Malware analysis training and tools.](https://www.openanalysis.net/) - Malware analysis training and tools.
+- [Malware Reverse Engineering course.](https://class.malware.re/) - Malware Reverse Engineering course.
+- [Malware reversing tutorials.](https://fumalwareanalysis.blogspot.com/p/malware-analysis-tutorials-reverse.html) - Malware reversing tutorials.
+- [Malware training.](https://github.com/hasherezade/malware_training_vol1) - Malware training.
+- [NASM x86 learning.](https://asmtutor.com/) - NASM x86 learning.
+- [Resources for reverse engineering.](reverse-engineering-resources) - Resources for reverse engineering.
+- [Reverse engineering practice.](https://malwareunicorn.org/) - Reverse engineering practice.
+- [Reversing resources.](https://ehc.auburn.edu/resources/reversing/#learning) - Reversing resources.
+- [Training in reverse engineering.](https://opensecuritytraining.info/) - Training in reverse engineering.
+- [Training in reverse engineering.](https://p.ost2.fyi/dashboard) - Training in reverse engineering.
+- [x86 Instruction Set](https://c9x.me/x86/) - x86 Instruction Set
+- [Botnet source code.](https://github.com/maestron/botnets) - Botnet source code.
+- [Malware analysis training.](https://github.com/OpenRCE/Malware-Analysis-Training) - Malware analysis training.
+- [Malware analysis course from RPISEC.](https://github.com/rpisec/malware) - Malware analysis course from RPISEC.
+- [Hacking the XBOX.](https://hackingthexbox.com/) - Hacking the XBOX.
+- [How to start reverse engineering.](https://hshrzd.wordpress.com/how-to-start/) - How to start reverse engineering.
+- [JS Decoder.](https://lelinhtinh.github.io/de4js/) - JS Decoder.
+- [Applied Reverse Engineering Series ](https://revers.engineering/applied-reverse-engineering-series/) - Applied Reverse Engineering Series
+- [Malware samples.](https://vxug.fakedoma.in/) - Malware samples.
+- [Guides for reversing SNES.](https://www.zophar.net/documents/snes.html) - Guides for reversing SNES.
+
+
+### Social
+
+- [Community dedicated to hardware.](https://www.hackster.io/) - Community dedicated to hardware.
+- [Hardware website.](https://www.adafruit.com/) - Hardware website.
+- [Infosec jobs.](https://infosec-jobs.com/) - Infosec jobs.
+- [Job heat map.](https://www.cyberseek.org/heatmap.html) - Job heat map.
+- [List of communities for tech.](https://docs.google.com/spreadsheets/d/1O97qjuCc6erLIcJiedPrsq3G9E2ECio_iltuF-YADtI/htmlview) - List of communities for tech.
