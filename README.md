@@ -177,7 +177,6 @@ A curated list of security topics ranging from DFIR to Reverse Engineering to pe
 
 - [AWS security practice.](https://flaws2.cloud/) - AWS security practice.
 - [Beginner lessons on security for high schoolers.](https://www.hackerhighschool.org/) - Beginner lessons on security for high schoolers.
-- [CompTIA SEC+ training.](CompTIA SEC+ 601 Training) - CompTIA SEC+ training.
 - [Defense against the dark arts 2021](https://www.cs.virginia.edu/~cr4bd/4630/S2021/schedule.html) - Defense against the dark arts 2021
 - [Free courses on topics including pentesting.](https://checkout.ine.com/starter-pass) - Free courses on topics including pentesting.
 - [Free security books from PacktPub.](https://github.com/Hack-with-Github/Free-Security-eBooks-from-PacktPub?files=1) - Free security books from PacktPub.
@@ -347,7 +346,7 @@ A curated list of security topics ranging from DFIR to Reverse Engineering to pe
 
 - [Awesome infosec courses.](https://samsclass.info/) - Awesome infosec courses.
 - [Building a Home Lab](https://hausec.com/2021/03/04/creating-a-red-blue-team-home-lab/) - Building a Home Lab
-- [11/",Cache of exploit exercises.]("https://www.vulnhub.com/series/exploit-exercises) - 11/",Cache of exploit exercises.
+- [Cache of exploit exercises.]("https://www.vulnhub.com/series/exploit-exercises) - Cache of exploit exercises.
 - [Challenging machines to break into.](https://app.hackthebox.eu/dashboard) - Challenging machines to break into.
 - [Hacking and pentesting courses.](https://academy.tcm-sec.com/) - Hacking and pentesting courses.
 - [IR walkthrough for high schoolers.](https://www.hacktale.com/) - IR walkthrough for high schoolers.
@@ -365,7 +364,7 @@ A curated list of security topics ranging from DFIR to Reverse Engineering to pe
 - [Pentesting practice labs.](https://www.pentesterlab.com/) - Pentesting practice labs.
 - [Pentesting practice.](https://www.pentestpractice.com/challenges) - Pentesting practice.
 - [Courses on malware and red teaming.](https://institute.sektor7.net) - Courses on malware and red teaming.
-- ["Free, online web security training from the creators of Burp Suite"](https://portswigger.net/web-security) - "Free, online web security training from the creators of Burp Suite"
+- [Free, online web security training from the creators of Burp Suite](https://portswigger.net/web-security) - "Free, online web security training from the creators of Burp Suite"
 - [Hacking wargame.](https://pwnable.tw/) - Hacking wargame.
 - [Awesome online classes for hacking and programming.](https://samsclass.info/) - Awesome online classes for hacking and programming.
 - [Courses on bug bounties and web app vulns.](https://thexssrat.podia.com/dashboard) - Courses on bug bounties and web app vulns.
