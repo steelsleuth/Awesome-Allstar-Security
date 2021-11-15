@@ -409,6 +409,7 @@ A curated list of security topics ranging from DFIR to Reverse Engineering to pe
 - [Applied Reverse Engineering Series ](https://revers.engineering/applied-reverse-engineering-series/) - Applied Reverse Engineering Series
 - [Malware samples.](https://vxug.fakedoma.in/) - Malware samples.
 - [Guides for reversing SNES.](https://www.zophar.net/documents/snes.html) - Guides for reversing SNES.
+- [MalAPI](https://malapi.io) - Windows API used for malware. 
 
 
 ### Social
