@@ -234,6 +234,7 @@ A curated list of security topics ranging from DFIR to Reverse Engineering to pe
 - [Bash guide for beginners.](https://www.tldp.org/LDP/Bash-Beginners-Guide/html/Bash-Beginners-Guide.html) - Bash guide for beginners.
 - [Selected papers on research.](https://www.uab.edu/cas/thecenter/research/selected-papers) - Selected papers on research.
 - [Training material for Wireshark](https://www.wallofsheep.com/pages/training-how-tos) - Training material for Wireshark
+- [Teach Yourself Infosec](https://teachyourselfinfosec.com) - A site for learning Infosec.
 
 ### List
 
